@@ -16,6 +16,8 @@ If you are going to code along, suggest you use the Anaconda distribution of Pyt
 
 The first option and the easiest option is to use Binder. This will spin up the necessary computational environment for you to write and execute Python code from your browser. Another option is to pull the Docker image with genra-py preinstalled using `docker pull patlewig/genra-py` and following the instructions provided in the dockerhub description.
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/patlewig/UNC_Rax/HEAD)
+
 Alternatively:
 
 1. Clone the repository
