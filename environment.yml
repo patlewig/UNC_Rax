@@ -1,0 +1,20 @@
+name: UNC_RAx_Tutorial
+channels:
+- conda-forge
+dependencies:
+- jupyter
+- scipy
+- python=3.8
+- scikit-learn
+- statsmodels
+- sqlalchemy
+- matplotlib
+- numpy
+- pandas
+- seaborn
+- jupyterlab
+- pymongo
+- rdkit
+- ipykernel
+- pip
+- openpyxl
