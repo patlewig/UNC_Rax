@@ -17,7 +17,8 @@ dependencies:
 - rdkit
 - ipykernel
 - pip
-- openpyxl
-- lxml
 - pip:
-  - --index-url https://test.pypi.org/simple/ genra
+  - openpyxl
+  - lxml
+  - --extra-index-url https://test.pypi.org/simple/
+  - genra
