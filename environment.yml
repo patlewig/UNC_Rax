@@ -5,7 +5,7 @@ dependencies:
 - jupyter
 - scipy
 - python=3.8
-- scikit-learn
+- scikit-learn=0.22.1
 - statsmodels
 - sqlalchemy
 - matplotlib
@@ -16,5 +16,7 @@ dependencies:
 - pymongo
 - rdkit
 - ipykernel
-- pip
-- openpyxl
+- pip:
+  - openpyxl
+  - lxml
+  - https://test.pypi.org/simple/ genra
