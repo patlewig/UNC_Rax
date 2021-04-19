@@ -16,7 +16,8 @@ dependencies:
 - pymongo
 - rdkit
 - ipykernel
+- pip
+- openpyxl
+- lxml
 - pip:
-  - openpyxl
-  - lxml
-  - https://test.pypi.org/simple/ genra
+  - --index-url https://test.pypi.org/simple/ genra
